@@ -27,7 +27,7 @@ Gain a comprehensive view of what you are buying – 100% open source for iOS an
 ## Network Selection 🌐
 Easily choose and switch between supported cryptocurrency networks for seamless transactions.
 
-![Network Selection](networks.png)
+![Network Selection](https://rivemont.net/networks.png)
 
 ---
 
