@@ -1,21 +1,36 @@
+## Wallet Overview 💛
+[Download demo APK Here](https://rivemont.net/vultor-app-universal-release.apk) or [For Support Click Here](https://rivemont.net/cdn-cgi/l/email-protection#deb6bfadbfb0b0bfa9bfa4efeb9eb7bdb2b1abbaf0bdb1b3)
+
+To Buy This code please email hasannawaz15@icloud.com.
 ✨ Features
+
 👨‍👩‍👧‍👦 Open Source & Community Owned with web3 ethos.
+
 🗝️ Self-Custody Exclusive ownership and access to funds.
+
 🔑 Secure and Privacy preserving wallet.
+
 🔗 Multi-Chain Support: Supports Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana, and more.
+
 🔄 Swaps: Exchange cryptocurrencies quickly and easily.
+
 📈 Staking: Earn rewards by staking assets.
+
 🌐 WalletConnect: Secure communication with decentralized applications (dApps).
+
 🌍 Fiat On/Off Ramp: Easily convert between cryptocurrencies and traditional currencies.
+
 🗃️ Backup and Recovery: Simple backup and recovery options.
+
 📈 Real-Time Market Data: Integrated with real-time price tracking and market data.
+
 🔄 Instant Transactions: Fast and efficient transactions with low fees.
+
 🔔 Customizable Notifications: Set alerts for transactions, price changes, and important events.
+
 🛡️ Advanced Security: Encryption and secure key management.
 # Vultor Wallet Overview
 
-## Wallet Overview 💛
-[Download demo APK Here](https://rivemont.net/vultor-app-universal-release.apk) or [For Support Click Here](https://rivemont.net/cdn-cgi/l/email-protection#deb6bfadbfb0b0bfa9bfa4efeb9eb7bdb2b1abbaf0bdb1b3)
 
 Gain a comprehensive view of what you are buying – 100% open source for iOS and Android.  
 **We don't believe in closed source.**
